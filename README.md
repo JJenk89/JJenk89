@@ -7,7 +7,8 @@ Currently open to full-time roles.
 ## Tech Stack
 **Frontend Frameworks**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-0B0D0E?style=for-the-badge&logo=astro&logoColor=FF5D01)
 
 **Frontend Technologies**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,8 +45,8 @@ You can message me here on GitHub
 
   *Alternatively* 
 
-You can reach me from the [contact form](https://jjenk89.dev/contact/) on my portfolio @ [JJenk89.dev](https://jjenk89.dev)  
-Or DM me on my Instragram @ [jjenk_89](https://www.instagram.com/jjenk_89)
+You can reach me from the [contact form](https://jjenk89.dev/contact/) on my portfolio
+Or DM me on my Instragram
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://jjenk89.dev)

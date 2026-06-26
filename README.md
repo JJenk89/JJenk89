@@ -38,7 +38,7 @@ Currently open to full-time roles.
 
 ## Currently Learning
 - CSS scroll-driven animations
-- Will begin a new framework soon, possibly *Angular*
+- **Angular**
 
 ## Get In Touch
 You can message me here on GitHub  
